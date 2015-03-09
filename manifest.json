@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Motivational Quotes",
+  "description": "Show motivational quotes in a new tab",
+  "version": "0.1",
+  "background": {
+    "scripts": ["js/vendor/angular.min.js"]
+  },
+  "content_scripts": [ {
+    "js"     : [ "js/vendor/jquery.min.js"],
+    "matches": [ "http://*/*", "https://*/*"]
+  }],
+  "chrome_url_overrides" : {
+    "newtab": "tab.html"
+  }
+}

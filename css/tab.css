@@ -1,0 +1,14 @@
+/*------------------------------------*\
+    Tab
+
+    Kevin Scheffelmeier
+\*------------------------------------*/
+body {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 80px;
+}
+
+#quote {
+  display: none;
+  max-width: 1000px;
+}
