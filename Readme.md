@@ -1,6 +1,6 @@
 # Motivational Quotes
 
-![Motivational Quotes](https://www.dropbox.com/s/mx2e07tnugw4lap/mq-demo-repo.png)
+![Motivational Quotes](https://dl.dropboxusercontent.com/s/mx2e07tnugw4lap/mq-demo-repo.png)
 
 When opening a new tab in Chrome the most viewed websites are shown. I never liked the idea of letting everyone see my most viewed websites whenever I open a new tab.
 
