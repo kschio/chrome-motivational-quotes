@@ -11,4 +11,4 @@ The code used for this plugin is only to show potential use cases and is not opt
 Feel free to use this repo as a starter and go crazy with your own ideas.
 
 Fore more information visit:
-[ksch.io/#/lab/chrome-motivational-quotes](ksch.io/#/lab/chrome-motivational-quotes "ksch.io")
+[ksch.io/#/lab/chrome-motivational-quotes](http://ksch.io/#/lab/chrome-motivational-quotes "ksch.io")
